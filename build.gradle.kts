@@ -81,5 +81,5 @@ tasks.compileJava.get().dependsOn(generateBuildConfig)
 // =============================================
 
 tasks.jar {
-    archiveBaseName.set("EcoBack")
+    archiveBaseName.set("EcoBack-KochMC")
 }

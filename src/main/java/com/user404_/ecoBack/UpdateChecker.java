@@ -14,7 +14,7 @@ import java.util.logging.Level;
 public class UpdateChecker {
 
     private final EcoBack plugin;
-    private static final String VERSION_URL = "https://raw.githubusercontent.com/deutschich/EcoBack/master/version.json";
+    private static final String VERSION_URL = "https://raw.githubusercontent.com/kochsmp/EcoBack/master/version.json";
     private static final String PROJECT_URL = "https://github.com/deutschich/EcoBack/releases/latest";
 
     private boolean updateAvailable = false;
